@@ -26,8 +26,8 @@ def load(df, output_path):
     df.to_csv(output_path, index=False)
 
 def run_pipeline():
-    raw_data_path = r"C:/Users/Sharath/Desktop/DataScience Intern/week3task5/data/raw_data.csv"
-    output_path = r"C:/Users/Sharath/Desktop/DataScience Intern/week3task5/data/cleaned_data.csv"
+    raw_data_path = r"data/raw_data.csv"
+    output_path = r"data/cleaned_data.csv"
     
     df = extract(raw_data_path)
     df = transform(df)
