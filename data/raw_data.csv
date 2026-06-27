@@ -1,0 +1,11 @@
+id,name,age,gender,department,salary,experience,city
+1,Arun,21,Male,IT,20000,1,Chennai
+2,Divya,23,Female,HR,,2,Chennai
+3,Ravi,25,Male,IT,30000,3,Bangalore
+4,Sneha, ,Female,Finance,40000,5,Mumbai
+5,Kiran,35,Male,IT,50000,7,Delhi
+6,Meena,28,Female,HR,28000,,Chennai
+7,Vikram,40,Male,Finance,70000,10,Mumbai
+8,Anitha,22,Female,IT,24000,2,Bangalore
+9,John,27,Male,IT,32000,4,Chennai
+10,Priya,31,Female,Finance,,6,Delhi
